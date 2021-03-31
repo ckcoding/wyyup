@@ -1,3 +1,7 @@
+# 目前https://github.com/Binaryify/NeteaseCloudMusicApi已支持云盘上传
+
+
+
 # 网易云上传脚本
 
 网易云云盘上传（待完善，目前可用）    
